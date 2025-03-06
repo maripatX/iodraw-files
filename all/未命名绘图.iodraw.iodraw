@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="1214" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="H29z1UT0k22mkYen4ZXD-4" value="土壤微生物-土壤肥力-作物产量/品质" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="503" y="1205" width="248" height="66" as="geometry" />
+          <mxGeometry x="219.5" y="1138" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="H29z1UT0k22mkYen4ZXD-5" value="土壤微生物群落" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="841" y="908" width="173" height="49" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry x="1833" y="1303" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="H29z1UT0k22mkYen4ZXD-17" value="微生物分子生态学机制" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="818" y="1500" width="220" height="49" as="geometry" />
+          <mxGeometry x="194" y="1220" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="H29z1UT0k22mkYen4ZXD-18" value="土壤碳氮转化功能基因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1170" y="1352" width="220" height="49" as="geometry" />
@@ -207,24 +207,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H29z1UT0k22mkYen4ZXD-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1.01;entryX=0;entryY=0.5;rounded=0;" parent="1" source="H29z1UT0k22mkYen4ZXD-4" target="H29z1UT0k22mkYen4ZXD-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="783" y="1525" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H29z1UT0k22mkYen4ZXD-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" parent="1" source="H29z1UT0k22mkYen4ZXD-17" target="H29z1UT0k22mkYen4ZXD-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1105" y="1377" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H29z1UT0k22mkYen4ZXD-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0;entryY=0.49;rounded=0;" parent="1" source="H29z1UT0k22mkYen4ZXD-17" target="H29z1UT0k22mkYen4ZXD-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1105" y="1574" />
             </Array>
           </mxGeometry>
         </mxCell>
